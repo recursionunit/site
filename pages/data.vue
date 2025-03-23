@@ -1,5 +1,5 @@
 <template>
     <div
 class="h-screen bg-cover bg-no-repeat bg-black"
-        style="background-image: url('./images/computing-fields.png');"/>
+        style="background-image: url('./images/computing-fields-data.png');"/>
 </template>

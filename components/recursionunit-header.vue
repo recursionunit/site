@@ -1,13 +1,18 @@
 <template>
     <div class="navbar bg-black">
-        <div class="flex-1">
-            <a class="btn btn-ghost text-xl">recursionunit</a>
-            <p class="text-sm ml-5">dev | data | cloud | security</p>
+        <div class="navbar-start">
+            <a class="btn btn-ghost text-xl" href="/">recursionunit</a>
         </div>
-        <div class="flex-none">
-            <button class="btn">
-                <a href="mailto:info@recursionunit.io">contact</a>
-            </button>
+        <div class="navbar-center hidden lg:flex">
+            <ul class="menu menu-horizontal px-1">
+                <li><a href="/dev">dev</a></li>
+                <li><a href="/data">data</a></li>
+                <li><a href="/cloud">cloud</a></li>
+                <li><a href="/security">security</a></li>
+            </ul>
+        </div>
+        <div class="navbar-end">
+            <a class="btn" href="mailto:info@recursionunit.io">contact</a>
         </div>
     </div>
 </template>
