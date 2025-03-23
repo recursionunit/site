@@ -2,8 +2,15 @@
 export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
-
-  modules: ['@nuxt/content', '@nuxt/eslint', '@nuxt/fonts', '@nuxt/icon', '@nuxt/image', '@nuxtjs/tailwindcss', 'nuxt-gtag'],
+  modules: [
+    '@nuxt/content', 
+    '@nuxt/eslint', 
+    '@nuxt/fonts', 
+    '@nuxt/icon', 
+    '@nuxt/image', 
+    '@nuxtjs/tailwindcss', 
+    'nuxt-gtag'
+  ],
   css: ["assets/app.css"],
   app: {
     head: {
@@ -11,8 +18,14 @@ export default defineNuxtConfig({
       viewport: 'width=device-width, initial-scale=1',
       title: 'recursionunit',
       meta: [
-        { name: 'description', content: 'recursiounit: technology consulting | solutions archtecture' },
-        { name: 'keywords', content: 'technology consulting, solutions architecture, data engineering, big data, ai, ml, toronto' }
+        { 
+          name: 'description', 
+          content: 'recursiounit: technology consulting | solutions archtecture' 
+        },
+        { 
+          name: 'keywords', 
+          content: 'technology consulting, solutions architecture, data engineering, big data, ai, ml, toronto' 
+        }
       ]
     }
   },
