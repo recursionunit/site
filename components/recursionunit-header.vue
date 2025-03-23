@@ -1,5 +1,5 @@
 <template>
-    <div class="navbar bg-black">
+    <div class="navbar bg-black sticky top-0">
         <div class="navbar-start">
             <a class="btn btn-ghost text-xl" href="/">recursionunit</a>
         </div>
