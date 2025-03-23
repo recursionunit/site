@@ -11,5 +11,16 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxtjs/tailwindcss'
   ],
-  css: ["~/assets/app.css"],
+  css: ["assets/app.css"],
+  app: {
+    head: {
+      charset: 'utf-8',
+      viewport: 'width=device-width, initial-scale=1',
+      title: 'recursionunit',
+      meta: [
+        { name: 'description', content: 'recursiounit: technology consulting | solutions archtecture' },
+        { name: 'keywords', content: 'technology consulting, solutions architecture, data engineering, big data, ai, ml, toronto' }
+      ]
+    }
+  }
 })
