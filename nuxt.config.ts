@@ -11,6 +11,9 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxtjs/tailwindcss'
   ],
+  buildModules: [
+    '@nuxtjs/google-analytics'
+  ],
   css: ["assets/app.css"],
   app: {
     head: {
@@ -22,5 +25,8 @@ export default defineNuxtConfig({
         { name: 'keywords', content: 'technology consulting, solutions architecture, data engineering, big data, ai, ml, toronto' }
       ]
     }
+  },
+  googleAnalytics: {
+    id: 'G-EKRWWX1PX0'
   }
 })
