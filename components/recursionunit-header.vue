@@ -1,6 +1,12 @@
 <template>
-    <div class="m-3">
-        <h1 class="font-bold">recursionunit</h1>
-        <a href="mailto:info@recursionunit.io">info@recursionunit.io</a>
+    <div class="navbar bg-black">
+        <div class="flex-1">
+            <a class="btn btn-ghost text-xl">recursionunit</a>
+        </div>
+        <div class="flex-none">
+            <button class="btn">
+                <a href="mailto:info@recursionunit.io">contact</a>
+            </button>
+        </div>
     </div>
 </template>
