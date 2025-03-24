@@ -34,6 +34,12 @@ export default defineNuxtConfig({
     url: 'https://recursionunit.io', 
     name: 'recusionunit' 
   },
+  schemaOrg: {
+    identity: {
+      type: 'Organization',
+      name: 'recursionunit',
+    }
+  },
   gtag: {
     id: 'G-EKRWWX1PX0'
   }
