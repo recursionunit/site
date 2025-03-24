@@ -2,15 +2,7 @@
 export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
-  modules: [
-    '@nuxt/content', 
-    '@nuxt/eslint', 
-    '@nuxt/fonts', 
-    '@nuxt/icon', 
-    '@nuxt/image', 
-    '@nuxtjs/tailwindcss', 
-    'nuxt-gtag'
-  ],
+  modules: ['@nuxt/content', '@nuxt/eslint', '@nuxt/fonts', '@nuxt/icon', '@nuxt/image', '@nuxtjs/tailwindcss', 'nuxt-gtag', '@nuxtjs/sitemap'],
   css: ["assets/app.css"],
   app: {
     head: {
@@ -28,6 +20,10 @@ export default defineNuxtConfig({
         }
       ]
     }
+  },
+  site: { 
+    url: 'https://recursionunit.io', 
+    name: 'recusionunit' 
   },
   gtag: {
     id: 'G-EKRWWX1PX0'
