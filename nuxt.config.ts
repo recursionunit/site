@@ -24,7 +24,7 @@ export default defineNuxtConfig({
         },
         { 
           name: 'keywords', 
-          content: 'technology consulting, solutions architecture, data engineering, big data, ai, ml, toronto' 
+          content: 'recursionunit, technology consulting, solutions architecture, data engineering, big data, ai, ml, toronto' 
         }
       ]
     }
