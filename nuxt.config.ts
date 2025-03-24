@@ -32,7 +32,7 @@ export default defineNuxtConfig({
   },
   site: { 
     url: 'https://recursionunit.io', 
-    name: 'recusionunit' 
+    name: 'solutions architecture' 
   },
   schemaOrg: {
     identity: {
