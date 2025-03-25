@@ -1,8 +1,8 @@
 <template>
-    <div class="navbar bg-black sticky top-0">
+    <div class="navbar bg-black">
         <div class="navbar-start">
             <div class="avatar">
-                <div class="w-8 rounded-full">
+                <div class="w-8">
                     <NuxtImg src="./images/logo.png" />
                 </div>
             </div>

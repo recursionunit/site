@@ -3,7 +3,7 @@
         <RecursionunitHeader />
         <div class="h-screen bg-cover bg-no-repeat bg-black"
             style="background-image: url('./images/computing-fields-security.png');">
-            <div class="m-5">
+            <div class="page-content">
                 <slot />
             </div>
         </div>
