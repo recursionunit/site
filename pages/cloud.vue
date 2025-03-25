@@ -5,6 +5,6 @@
 </script>
 <template>
     <div>
-        <h1>cloud</h1>
+        <h1 class="text-3xl font-bold">cloud</h1>
     </div>
 </template>

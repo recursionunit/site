@@ -5,6 +5,6 @@
 </script>
 <template>
     <div>
-        <h1>security</h1>
+        <h1 class="text-3xl font-bold">security</h1>
     </div>
 </template>
