@@ -17,8 +17,11 @@
             </ul>
         </div>
         <div class="navbar-end">
-            <a class="btn btn-circle btn-lg" href="mailto:info@recursionunit.io">
+            <a class="btn btn-circle btn-lg btn-neutral" href="mailto:info@recursionunit.io">
                 <Icon name="mdi-light:email" />
+            </a>
+            <a class="btn btn-circle btn-lg btn-neutral" href="#">
+                <Icon name="mdi-light:account" />
             </a>
         </div>
     </div>
