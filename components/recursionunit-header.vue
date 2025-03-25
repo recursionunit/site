@@ -17,7 +17,9 @@
             </ul>
         </div>
         <div class="navbar-end">
-            <a class="btn" href="mailto:info@recursionunit.io">contact</a>
+            <a class="btn btn-circle btn-lg" href="mailto:info@recursionunit.io">
+                <Icon name="mdi-light:email" />
+            </a>
         </div>
     </div>
 </template>
