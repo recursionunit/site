@@ -6,7 +6,7 @@
                     <NuxtImg src="./images/logo.png" />
                 </div>
             </div>
-            <a class="btn btn-ghost text-xl" href="/">recursionunit</a>
+            <a class="btn btn-ghost text-xl -ml-2" href="/">recursionunit</a>
         </div>
         <div class="navbar-center hidden lg:flex">
             <ul class="menu menu-horizontal px-1">
