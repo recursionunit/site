@@ -1,6 +1,11 @@
 <template>
     <div class="navbar bg-black sticky top-0">
         <div class="navbar-start">
+            <div class="avatar">
+                <div class="w-8 rounded-full">
+                    <NuxtImg src="./images/logo.png" />
+                </div>
+            </div>
             <a class="btn btn-ghost text-xl" href="/">recursionunit</a>
         </div>
         <div class="navbar-center hidden lg:flex">
