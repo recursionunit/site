@@ -1,17 +1,12 @@
 <template>
     <div class="flex flex-col h-screen">
         <RecursionunitHeader />
-        <div class="h-screen bg-cover bg-no-repeat bg-black page-bg">
-            <div class="page-content">
+        <div class="h-screen bg-cover bg-no-repeat bg-black"
+            style="background-image: url('./images/computing-fields-security.png');">
+            <div class="m-5">
                 <slot />
             </div>
         </div>
         <RecursionunitFooter />
     </div>
 </template>
-
-<style scoped>
-.page-bg {
-    background-image: url('./images/computing-fields-security.png');
-}
-</style>
