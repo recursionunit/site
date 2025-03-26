@@ -18,7 +18,7 @@
             </ul>
         </div>
         <div class="navbar-end">
-            <NuxtLink class="btn btn-circle btn-lg mr-3" to="mailto:info@recursionunit.io">
+            <NuxtLink class="btn btn-circle btn-lg mr-3" to="mailto:info@recursionunit.io" aria-label="contact">
                 <Icon name="mdi-light:email" />
             </NuxtLink>
             <div class="dropdown dropdown-end mr-2">
