@@ -43,5 +43,8 @@ export default defineNuxtConfig({
   },
   gtag: {
     id: 'G-EKRWWX1PX0'
+  },
+  image: {
+    inject: true
   }
 })
