@@ -22,7 +22,7 @@
                 <Icon name="mdi-light:email" />
             </NuxtLink>
             <div class="dropdown dropdown-end mr-2">
-                <div tabindex="0" role="button" class="btn btn-circle btn-lg">
+                <div tabindex="0" role="button" class="btn btn-circle btn-lg" aria-label="account">
                     <Icon name="mdi-light:account" />
                 </div>
                 <ul tabindex="0" class="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
@@ -33,7 +33,7 @@
                         </a>
                     </li>
                 -->
-                    <li><NuxtLink to="#">login</NuxtLink></li>
+                    <li><NuxtLink to="#" aria-label="login">login</NuxtLink></li>
                 </ul>
             </div>
         </div>
