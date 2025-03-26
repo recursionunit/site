@@ -14,6 +14,7 @@ export default defineNuxtConfig({
   ],
   css: ["assets/app.css"],
   app: {
+    pageTransition: { name: 'layout', mode: 'out-in' },
     head: {
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
@@ -21,7 +22,7 @@ export default defineNuxtConfig({
       meta: [
         { 
           name: 'description', 
-          content: 'recursiounit: technology consulting | solutions archtecture' 
+          content: 'technology consulting | solutions archtecture' 
         },
         { 
           name: 'keywords', 

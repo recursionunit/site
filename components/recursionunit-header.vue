@@ -3,7 +3,7 @@
         <div class="navbar-start">
             <div class="avatar">
                 <div class="w-8">
-                    <NuxtImg src="./images/logo.png" />
+                    <NuxtImg src="/images/logo.jpg" />
                 </div>
             </div>
             <NuxtLink class="btn btn-ghost text-xl -ml-2" to="/">recursionunit</NuxtLink>
