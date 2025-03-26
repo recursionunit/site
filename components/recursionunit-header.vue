@@ -14,6 +14,7 @@
                 <li><a href="/data">data</a></li>
                 <li><a href="/cloud">cloud</a></li>
                 <li><a href="/security">security</a></li>
+                <li><a href="#">platform</a></li>
             </ul>
         </div>
         <div class="navbar-end">
