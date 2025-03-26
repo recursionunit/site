@@ -6,21 +6,21 @@
                     <NuxtImg src="./images/logo.png" />
                 </div>
             </div>
-            <a class="btn btn-ghost text-xl -ml-2" href="/">recursionunit</a>
+            <NuxtLink class="btn btn-ghost text-xl -ml-2" to="/">recursionunit</NuxtLink>
         </div>
         <div class="navbar-center hidden lg:flex">
             <ul class="menu menu-horizontal px-1">
-                <li><a href="/dev">dev</a></li>
-                <li><a href="/data">data</a></li>
-                <li><a href="/cloud">cloud</a></li>
-                <li><a href="/security">security</a></li>
-                <li><a href="#">platform</a></li>
+                <li><NuxtLink to="/dev">dev</NuxtLink></li>
+                <li><NuxtLink to="/data">data</NuxtLink></li>
+                <li><NuxtLink to="/cloud">cloud</NuxtLink></li>
+                <li><NuxtLink to="/security">security</NuxtLink></li>
+                <li><NuxtLink to="#">platform</NuxtLink></li>
             </ul>
         </div>
         <div class="navbar-end">
-            <a class="btn btn-circle btn-lg mr-3" href="mailto:info@recursionunit.io">
+            <NuxtLink class="btn btn-circle btn-lg mr-3" to="mailto:info@recursionunit.io">
                 <Icon name="mdi-light:email" />
-            </a>
+            </NuxtLink>
             <div class="dropdown dropdown-end mr-2">
                 <div tabindex="0" role="button" class="btn btn-circle btn-lg">
                     <Icon name="mdi-light:account" />
@@ -33,7 +33,7 @@
                         </a>
                     </li>
                 -->
-                    <li><a>login</a></li>
+                    <li><NuxtLink to="#">login</NuxtLink></li>
                 </ul>
             </div>
         </div>
