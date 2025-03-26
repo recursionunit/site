@@ -15,7 +15,10 @@ definePageMeta({
                     </p>
                     <p class="text-sm">
                         We design and develop scalable, high-performance applications tailored to client needs, ensuring
-                        seamless user experiences and operational efficiency. Our expertise in big data integration
+                        seamless user experiences and operational efficiency.
+                    </p>
+                    <p class="text-sm">
+                        Our expertise in big data integration
                         enables organizations to harness vast amounts of information for real-time analytics, predictive
                         insights, and strategic decision-making, optimizing data flow and reliability.
                     </p>
