@@ -14,7 +14,7 @@ definePageMeta({
                         cloud architecture, and security, helping businesses modernize their digital infrastructure.
                     </p>
                     <p class="text-sm">
-                        We design and develop scalable, high-performance applications tailored to client needs, ensuring
+                        We design and develop scalable, high-performance applications and APIs tailored to client needs, ensuring
                         seamless user experiences and operational efficiency.
                     </p>
                     <p class="text-sm">
