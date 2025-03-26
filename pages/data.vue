@@ -10,13 +10,10 @@ definePageMeta({
             <div class="card bg-black opacity-75 text-primary-content w-96">
                 <div class="card-body">
                     <p class="text-xl">
-                        Unlock the full potential of your data with expert data architecture and engineering consulting.
-                        We design and implement flexible, scalable, and high-performance data solutions that adapt to
-                        your evolving business needs—whether on-premises, hybrid, or across cloud platforms like AWS,
-                        Azure, and Google Cloud. Our approach ensures seamless integration, real-time scalability, and
-                        future-ready architectures, empowering your business to stay agile in a rapidly changing data
-                        landscape. From data modeling and pipeline optimization to governance and security, we
-                        prioritize adaptability, compliance, and reliability.
+                        Maximize the value of your data with adaptable, high-performance architecture and engineering
+                        solutions. We design scalable, secure, and seamlessly integrated systems across AWS, Azure,
+                        Google Cloud, and hybrid environments. From data pipelines to governance, our solutions evolve
+                        with your business needs.
                     </p>
                 </div>
             </div>
