@@ -10,9 +10,8 @@ definePageMeta({
             <div class="card bg-black opacity-75 text-primary-content w-1/3">
                 <div class="card-body text-sm">
                     <p>
-                        Accelerate your application and API development with expert consulting. We design and build
-                        secure, scalable, and high-performance solutions tailored to your business needs. From robust
-                        backend architectures to seamless integrations, our approach ensures optimized performance,
+                        We design and build secure, scalable, and high-performance solutions tailored to your business
+                        needs. From robust backend architectures to seamless integrations, our approach ensures optimized performance,
                         security, and compliance.
                     </p>
                 </div>

@@ -10,8 +10,7 @@ definePageMeta({
             <div class="card bg-black opacity-75 text-primary-content w-1/3">
                 <div class="card-body text-sm">
                     <p>
-                        Protect your data and applications with expert-driven security consulting. We
-                        assess vulnerabilities, implement tailored protection strategies, and ensure compliance across cloud, web, and
+                        We assess vulnerabilities, implement tailored protection strategies, and ensure compliance across cloud, web, and
                         enterprise applications.
                     </p>
                     <p>
