@@ -8,7 +8,7 @@ definePageMeta({
         <h1 class="text-3xl font-bold">cloud</h1>
         <div class="absolute bottom-20 left-5">
             <div class="card bg-black opacity-75 text-primary-content w-1/3">
-                <div class="card-body text-sm">
+                <div class="card-body h-64 overflow-auto text-sm">
                     <p>
                         We design and implement secure, scalable, and cost-efficient solutions across AWS, Microsoft
                         Azure, and Google Cloud.

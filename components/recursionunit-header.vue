@@ -23,9 +23,11 @@
                     <li>
                         <NuxtLink to="/security">security</NuxtLink>
                     </li>
+                    <!--
                     <li>
                         <NuxtLink to="#">platform</NuxtLink>
                     </li>
+                -->
                 </ul>
             </div>
             <div class="navbar-end">

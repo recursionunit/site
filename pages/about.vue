@@ -3,7 +3,7 @@
         <h1 class="text-3xl font-bold">about</h1>
         <div class="absolute bottom-20 left-5">
             <div class="card bg-black opacity-75 w-1/3">
-                <div class="card-body text-sm">
+                <div class="card-body h-64 overflow-auto text-sm">
                     <p>
                         Our technology consulting group specializes in application development, big data integration,
                         cloud architecture, and security, helping businesses modernize their digital infrastructure.

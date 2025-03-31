@@ -8,7 +8,7 @@ definePageMeta({
         <h1 class="text-3xl font-bold">security</h1>
         <div class="absolute bottom-20 left-5">
             <div class="card bg-black opacity-75 text-primary-content w-1/3">
-                <div class="card-body text-sm">
+                <div class="card-body h-64 overflow-auto text-sm">
                     <p>
                         We assess vulnerabilities, implement tailored protection strategies, and ensure compliance across cloud, web, and
                         enterprise applications.
